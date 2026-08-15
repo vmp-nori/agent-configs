@@ -1,0 +1,4 @@
+interface:
+  display_name: "Antipatterns"
+  short_description: "Write specific, natural, non-generic prose"
+  default_prompt: "Use $antipatterns to revise this prose for specificity, character, and consequence."
