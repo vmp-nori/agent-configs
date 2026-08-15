@@ -1,0 +1,1 @@
+Use subagents for tasks that can be done in parallel, to save time. 
