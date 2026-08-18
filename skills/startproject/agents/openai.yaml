@@ -1,0 +1,4 @@
+interface:
+  display_name: "Start Project"
+  short_description: "Interview and initialize an agent-first product harness"
+  default_prompt: "Use $startproject to interview me about this product, confirm the harness decisions, and initialize the repository."
